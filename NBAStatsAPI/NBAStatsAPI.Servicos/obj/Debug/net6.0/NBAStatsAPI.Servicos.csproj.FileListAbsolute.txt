@@ -1,0 +1,14 @@
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\bin\Debug\net6.0\NBAStatsAPI.Servicos.deps.json
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\bin\Debug\net6.0\NBAStatsAPI.Servicos.runtimeconfig.json
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\bin\Debug\net6.0\NBAStatsAPI.Servicos.dll
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\bin\Debug\net6.0\NBAStatsAPI.Servicos.pdb
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.csproj.AssemblyReference.cache
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.AssemblyInfoInputs.cache
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.AssemblyInfo.cs
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.csproj.CoreCompileInputs.cache
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.dll
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\refint\NBAStatsAPI.Servicos.dll
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.pdb
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\NBAStatsAPI.Servicos.genruntimeconfig.cache
+C:\Projetos\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI\NBAStatsAPI.Servicos\obj\Debug\net6.0\ref\NBAStatsAPI.Servicos.dll
