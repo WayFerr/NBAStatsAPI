@@ -22,10 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\NBAStatsAPI.Infra\NBAStatsAPI.Infra.csproj" />
     <ProjectReference Include="..\NBAStatsAPI.Servicos\NBAStatsAPI.Servicos.csproj" />
   </ItemGroup>
