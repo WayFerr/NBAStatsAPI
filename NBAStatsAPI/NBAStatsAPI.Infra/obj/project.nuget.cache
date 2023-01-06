@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g5ldzcGDY/IZludttpk/fheaHnaALtU30gENJ44ztJ3tWgFxWYEGKThGpL6m0MZnsGpcgagb16nkSXGs3iJPyw==",
+  "dgSpecHash": "tPXauv0qef/JwmmNSLeAV4UuT1U7YqCBodY9r8J65E3sg/moLsvXyUwRxgh72NSIytm/5Exp+5jEuhlweM0FFA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI.Infra\\NBAStatsAPI.Infra.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WaFerr\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\WaFerr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.12\\microsoft.entityframeworkcore.6.0.12.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.12\\microsoft.entityframeworkcore.abstractions.6.0.12.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.12\\microsoft.entityframeworkcore.analyzers.6.0.12.nupkg.sha512",
