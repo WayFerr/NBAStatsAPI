@@ -279,6 +279,19 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "NBAStatsAPI.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Pomelo.EntityFrameworkCore.MySql": "6.0.2"
+        },
+        "compile": {
+          "bin/placeholder/NBAStatsAPI.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NBAStatsAPI.Dominio.dll": {}
+        }
       }
     }
   },
@@ -737,12 +750,18 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "NBAStatsAPI.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../NBAStatsAPI.Dominio/NBAStatsAPI.Dominio.csproj",
+      "msbuildProject": "../NBAStatsAPI.Dominio/NBAStatsAPI.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.12",
+      "NBAStatsAPI.Dominio >= 1.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.2"
     ]
   },
@@ -777,7 +796,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI.Dominio\\NBAStatsAPI.Dominio.csproj": {
+              "projectPath": "C:\\Projetos\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI\\NBAStatsAPI.Dominio\\NBAStatsAPI.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
